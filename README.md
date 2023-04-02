@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://nftstorage.link/ipfs/bafybeiazh42gm5kbo6ydx7u3v5qenlfrs47wwt7bkycuf2vl64v3hlffku/1882.gif" align="center" style="width: 100%" />
+<img src="https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://nftstorage.link/ipfs/bafybeiazh42gm5kbo6ydx7u3v5qenlfrs47wwt7bkycuf2vl64v3hlffku/1882.gif" align="center" style="width: 50%" />
 </div>  
   
 
