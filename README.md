@@ -4,6 +4,8 @@
   
 
 ### <div align="center">I'm Rafael, a Metallurgical Engineer walking the path to become a Data Engineer.</div>  
+
+
   
 
 - 📘 I’m currently studying Data Engineering at Coursera  
