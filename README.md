@@ -8,13 +8,13 @@
 <br/>  
   
 
-- 📘 I’m currently studying Data Engineering at Coursera  
+- 📘 I’m currently studying Data Engineering at Coursera and Data Science at DIO
   
 
 - 💎Crypto and Web3 enthusiast   
   
 
-- 👨‍🎓 Planning to learn Solidity and Rust in a near future as a hobby  
+- 👨‍🎓 Planning to learn Solidity and Rust in a near future to have some more fun at the blockchain  
   
 
 <br/>  
