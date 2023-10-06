@@ -3,15 +3,15 @@
 </div>  
   
 
-### <div align="center">I'm Rafael, a Metallurgical Engineer walking the path to become a Data Engineer.</div>  
+### <div align="center">I'm Rafael Guisso, walking the path to become a Data Engineer.</div>  
 
 <br/>  
   
 
-- 📘 I’m currently studying Data Engineering at Coursera and Data Science at DIO
+- 📘 Currently studying Data Engineering at ADA and Coursera
   
 
-- 💎Crypto and Web3 enthusiast   
+- 💎 Web3 enthusiast   
   
 
 - 👨‍🎓 Planning to learn Solidity and Rust in a near future to have some more fun at the blockchain  
