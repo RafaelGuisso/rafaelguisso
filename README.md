@@ -1,9 +1,7 @@
 <div align="center">
-<img src="https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://nftstorage.link/ipfs/bafybeiazh42gm5kbo6ydx7u3v5qenlfrs47wwt7bkycuf2vl64v3hlffku/1882.gif" align="center" style="width: 50%" />
-</div>  
   
 
-### <div align="center">I'm Rafael Guisso, walking the path to become a Data Engineer.</div>  
+### <div align="center">I'm Rafael, walking the path to become a Data Engineer/Scientist.</div>  
 
 <br/>  
   
@@ -14,7 +12,7 @@
 - 💎 Web3 enthusiast   
   
 
-- 👨‍🎓 Planning to learn Solidity and Rust in a near future to have some more fun at the blockchain  
+- 👨‍🎓 Planning to learn Machine Learning in a near future  
   
 
 <br/>  
