@@ -7,6 +7,7 @@ Olá, sou Rafael, um entusiasta de dados apaixonado por resolver problemas e exp
 ### [Euler - Resolução de EDOs](https://github.com/RafaelGuisso/Portfolio/blob/main/Euler.ipynb)
 ![Imagem Euler](https://github.com/RafaelGuisso/Portfolio/assets/108840079/33c1e7d9-3390-4bc5-a909-c0dce27898d3)
 - Resolução de Equações Diferenciais Ordinárias (EDOs) usando o método de Euler.
+- Desenvolvido em python utilizando as bibliotecas matplotlib e numpy.
 
 ### [SQL - Projeto de Banco de Dados](https://github.com/RafaelGuisso/Portfolio/tree/main/SQL)
 ![Imagem SQL](https://github.com/RafaelGuisso/Portfolio/assets/108840079/31299069-6eab-4c5d-a353-b2077e914564)
