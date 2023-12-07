@@ -1,21 +1,46 @@
-<div align="center">
-  
+# Bem-vindo ao Meu Perfil! 👋
 
-### <div align="center">I'm Rafael, walking the path to become a Data Engineer/Scientist.</div>  
+Olá, sou Rafael, um entusiasta de dados apaixonado por resolver problemas e explorar insights interessantes através da análise de dados. Este é o meu espaço no GitHub, onde compartilho alguns dos projetos que desenvolvi durante minha jornada de aprendizado.
 
-<br/>  
-  
+## Projetos Destacados
 
-- 📘 Currently studying Data Engineering at ADA and Coursera
-  
+### Euler - Resolução de EDOs
+![Imagem Euler](https://github.com/RafaelGuisso/Portfolio/assets/108840079/33c1e7d9-3390-4bc5-a909-c0dce27898d3)
+- Resolução de Equações Diferenciais Ordinárias (EDOs) usando o método de Euler.
 
-- 💎 Web3 enthusiast   
-  
+### SQL - Projeto de Banco de Dados
+![Imagem SQL](https://github.com/RafaelGuisso/Portfolio/assets/108840079/31299069-6eab-4c5d-a353-b2077e914564)
+- Projeto SQL com esquema de tabelas e queries para manipulação de dados.
 
-- 👨‍🎓 Planning to learn Machine Learning in a near future  
-  
+### k-NN - Aprendizado de Máquina
+- Projeto de k-Nearest Neighbors para preenchimento de dados incompletos em um banco de dados.
 
-<br/>  
+### Parametrização
+- Desenvolvido durante meu estágio, otimizando equações em um banco de dados de produção usando pandas e numpy.
+
+### Projeto: ETL e Gerenciador de Dados
+
+Este projeto consiste em uma aplicação que realiza a Extração, Transformação e Carga (ETL) de dados, além de fornecer um gerenciador para manipulação e análise dos dados. Aqui estão algumas características e funcionalidades principais:
+
+ Funcionalidades
+
+1. **Inserção de Dados:** Adicione novos registros ao banco de dados de forma intuitiva e eficiente.
+
+2. **Atualização de Dados:** Realize alterações nos dados existentes de maneira fácil e segura.
+
+3. **Exclusão de Dados:** Remova registros conforme necessário, mantendo a integridade do banco de dados.
+
+4. **Filtragem de Dados:** Utilize recursos avançados de filtragem para encontrar e visualizar dados específicos.
+
+5. **Estatísticas e Análises:** Gere estatísticas e análises a partir dos dados disponíveis na aplicação.
+
+
+## Sobre Mim
+
+Sou [breve descrição sobre você, suas paixões, interesses e objetivos].
+
+Fique à vontade para explorar os projetos! Se tiver dúvidas, sugestões ou apenas quiser trocar ideias, entre em contato. Obrigado por visitar meu perfil!
+
 
 
 
