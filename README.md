@@ -1,8 +1,8 @@
-# Bem-vindo ao Meu Perfil! 👋
+Bem-vindo ao Meu Perfil! 👋
 
 Olá, sou Rafael, um entusiasta de dados apaixonado por resolver problemas e explorar insights interessantes através da análise de dados. Este é o meu espaço no GitHub, onde compartilho alguns dos projetos que desenvolvi durante minha jornada de aprendizado.
 
-## Projetos Destacados
+## [Projetos Destacados][https://github.com/RafaelGuisso/Portfolio/tree/main]
 
 ### Euler - Resolução de EDOs
 ![Imagem Euler](https://github.com/RafaelGuisso/Portfolio/assets/108840079/33c1e7d9-3390-4bc5-a909-c0dce27898d3)
