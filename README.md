@@ -17,6 +17,7 @@ Olá, sou Rafael, um entusiasta de dados apaixonado por resolver problemas e exp
 - Projeto de k-Nearest Neighbors para preenchimento de dados incompletos em um banco de dados.
 
 ### [Parametrização](https://github.com/RafaelGuisso/Portfolio/blob/main/parameterization.ipynb)
+![image](https://github.com/RafaelGuisso/rafaelguisso/assets/108840079/2b7c283a-f628-4f91-9d2e-a4412a60f0b5)
 - Desenvolvido durante meu estágio, otimizando equações em um banco de dados de produção usando pandas e numpy.
 
 ### [Projeto: ETL e Gerenciador de Dados](https://github.com/RafaelGuisso/Portfolio/tree/main/ETL)
