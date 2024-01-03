@@ -3,6 +3,7 @@ Bem-vindo ao Meu Perfil! 👋
 Olá, sou Rafael, um entusiasta de dados apaixonado por resolver problemas e explorar insights interessantes através da análise de dados. Este é o meu espaço no GitHub, onde compartilho alguns dos projetos que desenvolvi durante minha jornada de aprendizado.
 
 Atualmente, meu GitHub abriga vários repositórios que documentam os códigos produzidos em diversas etapas dos meus estudos. Sinta-se à vontade para explorar o conteúdo desses repositórios, pois eles refletem meu empenho e minha caminhada aprimorando minhas habilidades técnicas.
+
 Dito isso, abaixo, destaco alguns dos principais códigos que desenvolvi:
 
 
